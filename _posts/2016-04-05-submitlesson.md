@@ -4,7 +4,7 @@ title: Submit Lesson
 subtitle:   "Submit Lesson"
 categories: [Chess]
 tags: [Chess]
-published: False
+published: True
 permalink: submit
 author:    "Rafeh Qazi"
 header-img: "img/iphone-passcode2.jpg"
