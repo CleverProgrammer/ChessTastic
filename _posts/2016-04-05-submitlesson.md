@@ -4,8 +4,8 @@ title: Submit Lesson
 subtitle:   "Submit Lesson"
 categories: [Chess]
 tags: [Chess]
-published: True
-permalink: lesson
+published: False
+permalink: submit
 author:    "Rafeh Qazi"
 header-img: "img/iphone-passcode2.jpg"
 comments: true
