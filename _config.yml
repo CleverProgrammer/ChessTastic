@@ -1,0 +1,28 @@
+# Site settings
+title: Clever Programmer
+header-img: img/home-bg.jpg
+email: rafehqazi1@gmail.com
+description: "A Software Developer who likes double tall white mocha from Starbucks almost as much as he likes code."
+baseurl: ""
+url: ""
+twitter_username: RafehQ
+github_username:  QaziPython
+facebook_username:  ChessTastic
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","vendor"]
+
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#        
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-74996552-1'
+  getclicky :
+    site_id :
