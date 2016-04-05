@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clever Programmer</title>
+    <description>A Software Developer who likes double tall white mocha from Starbucks almost as much as he likes code.</description>
+    <link>/ChessTastic/</link>
+    <atom:link href="/ChessTastic/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 05 Apr 2016 02:50:35 -0500</pubDate>
+    <lastBuildDate>Tue, 05 Apr 2016 02:50:35 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Why Should I Study Computer Programming?</title>
+        <description>&lt;h1 id=&quot;why-should-i-study-computer-programming&quot;&gt;Why Should I Study Computer Programming?&lt;/h1&gt;
+
+&lt;p&gt;I want to cover this quite differently from how most other people might answer this question because I want to emphasize that money should not be your focus when decided careers. I mean don’t get me wrong, money is important, but what is even more important is what you actually are able to do for yourself and for others when you decide your career. There are a million and two reasons why you should study computer programming but let’s break it down into four simple ones.&lt;/p&gt;
+
+&lt;h2 id=&quot;you-can-create-anything-you-want&quot;&gt;1. You Can Create Anything You Want&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://initiontechnology.com/wp-content/uploads/2015/10/Mobile_Apps.jpg&quot; width=&quot;400&quot; height=&quot;400&quot; align=&quot;middle&quot; /&gt;
+At its core, computer programming gives you the ability to digitize your ideas. Imagine being able to actually implement any idea that you could think about! You know that idea you have for an awesome app that would go viral once it was released out into the wild… Yeah that one – you could actually create that yourself. Let’s face it, if you are like most people, you might not have a giant pile of cash stashed away to hire somebody to make that app for you because it can get very expensive, very quickly. On the other side let’s say you had some money put away in your account overseas in the Bahamas, it is very unlikely that the person you hire will implement your idea of the app exactly how you want. &lt;/p&gt;
+
+&lt;p&gt;Do you think Mark Zuckerberg, the creator of Facebook, would have ended up creating the same Facebook if he hired someone to do the work for him? Do you think that the hired developer would have ended up putting the same amount of heart and soul into the work as Mark Zuckerberg? Do you think if the person who came up with the idea of creating Twitter, if he did not have the ability to code, would Twitter still exist? The answer for both of these is probably a resounding “No!”. This is one good reason why you should learn how to program.&lt;/p&gt;
+
+&lt;h2 id=&quot;instant-scalability&quot;&gt;2. Instant Scalability&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.simicart.com/blog/wp-content/uploads/2015/09/secret-of-mobile-apps.jpg&quot; alt=&quot;Scale Your Program To The World&quot; width=&quot;600&quot; height=&quot;400&quot; align=&quot;center&quot; /&gt;
+There is nothing else in this world that can scale its problem solving capabilities to the rest of the world like software development or computer programming can. For example, if you create an application or a website that monitors someone’s heart-rate, lets them measure their caloric count, or tracks their spending, then all of a sudden hundreds of millions of people can have their fitness or finance related problems solved with the click of a button. You can use computer science to practically solve any problem! I mean think about Uber right… Someone had an epic idea and they set out to turn it into a reality. They set out to digitize their idea into a mobile application by using their computer programming skills. Once they had completed and published the app, it was downloadable by millions of users instantly.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-job-is-guaranteed&quot;&gt;3. A Job is Guaranteed&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.lonestarpropertysolutions.com/wp-content/uploads/2015/07/jobs2.jpg&quot; alt=&quot;Computer Programming Job and Money Statistics&quot; width=&quot;600&quot; height=&quot;400&quot; align=&quot;center&quot; /&gt;
+We are living in the digital age and the growth of technology does not seem to be coming to a stop. As a matter of fact, the use of electronic devices is growing exponentially every year and so you can be sure that there is going to be no shortage of jobs in the computer programming industry… Only growth. According to &lt;a href=&quot;http://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm&quot;&gt;The Bureau of Labor Statistics&lt;/a&gt;, the projected job outlook between 2014-2024 is going to be 17%, almost twice the rate of job growth for any other occupation. So, what does that mean for you? Practically a guarantee that you will have a job if you pursue this career, and more importantly that you will get to keep it for a long time. &lt;img src=&quot;https://code.org/images/cs-stats/more-jobs-than-students.png&quot; alt=&quot;Computer Programming Job and Money Statistics&quot; width=&quot;600&quot; height=&quot;400&quot; align=&quot;center&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;money&quot;&gt;4. Money&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://greenapplefoam.com/wp-content/uploads/2014/02/Go-Green-to-Save-Green-with-your-Income-Tax-Return1.jpg&quot; alt=&quot;Programming Makes You Money&quot; width=&quot;600&quot; height=&quot;400&quot; align=&quot;center&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“You can have everything in life that you want, if you will just help enough other people get what they want”. – Zig Ziglar&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now let’s get to the part that you are all here for! &lt;em&gt;&lt;a href=&quot;http://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm&quot;&gt;The median salary of a computer programmer stands at $47 per hour which means $97,000 per year!&lt;/a&gt;&lt;/em&gt;. Statistically, the &lt;strong&gt;median&lt;/strong&gt; is the most robust determinant for averages and if that is coming out to be $47 an hour, you have a very high chance of making that much money AND you will also have the opportunity available for higher compensation than the median.&lt;/p&gt;
+
+&lt;p&gt;You will only make money when you can solve other people’s problems and help them achieve their dreams. That is effectively what a job actually is by definition. An entrepreneur who starts his own business is also simply trying to help others reach their goals and in turn those others help the entrepreneur reach his or her goal of financial freedom. Since computer programming has problem solving as one of its main reasons for existing, you can imagine that you will be extremely valuable to many people. You will be an asset that they could bring on board in order to help them digitize their million dollar idea. They will be more than happy to pay you a healthy chunk of money when you help them implement their ideas and turn them into a reality.&lt;/p&gt;
+
+&lt;p&gt;As long as there exist people, there will exist problems. As long as there exist problems, there will exist the need for creating solutions. In lieu of that, computer programming will remain relevant indefinitely as it is one of the strongest tools we have currently for problem solving and helping people get what they want.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Mar 2016 00:00:00 -0500</pubDate>
+        <link>/ChessTastic/why-should-I-study-computer-science</link>
+        <guid isPermaLink="true">/ChessTastic/why-should-I-study-computer-science</guid>
+        
+        <category>programming</category>
+        
+        <category>computer science</category>
+        
+        <category>coding</category>
+        
+        
+        <category>programming</category>
+        
+      </item>
+    
+      <item>
+        <title>How to Finish An Online Programming Course</title>
+        <description>&lt;h1 id=&quot;how-to-finish-an-online-programming-course&quot;&gt;How to Finish An Online Programming Course?&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;http://relateinstitute.com/wp-content/uploads/2014/12/house.jpg&quot; alt=&quot;FOCUS&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Have you ever felt that rush – that excitement – when you are about to start a new course online? You get that coffee, or that smoothie, and walk over excitedly to your computer to start that first assignment. Then, that feeling is followed by another happy feeling when you complete your “Hello World” assignment, or some other relatively easy assignment. So far things are going great and you are right on track with everyone else and you have a perfect 100% score. Your outlook towards the entire situation is completely positive and you cannot wait for the second week of the course to start. &lt;/p&gt;
+
+&lt;p&gt;Then something very mysterious happens… The difficulty rate of the course grows exponentially and hits you like a 90 mph baseball truck (I just made that truck up). The first week teaches you the basic concepts of your programming language and the second week expects you to put it all together to create a new operating system (maybe not to that extent… But I hope you get my point). &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.teengazette.com/wp-content/uploads/2015/08/webhomes-complex-to-simple.jpg&quot; alt=&quot;Complex&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At this point you look for help and there is no place that offers help in a way where you learn incrementally. Meaning in fact that you learn and practice every single concept &lt;strong&gt;exclusively&lt;/strong&gt; that is included in the project and then you are ready to take on the entire project by yourself. Many courses assume a certain level of competency even though they might be titled &lt;em&gt;Python 101 for Beginners&lt;/em&gt; and they make pretty big assumptions as to how a beginner might handle this. These instructors have difficulty empathizing because &lt;strong&gt;they cannot remember what it is like to not know&lt;/strong&gt;. This leads people to either copy code or in an extremely unfortunate case – quit.&lt;/p&gt;
+
+&lt;p&gt;Today, I want to talk about a very common problem I see with many people when it comes to taking online courses. Many people start off their courses with the best of intentions, only to somehow see their motivation wither away. What happened to that drive? What happened to the strong will power of being committed and really getting it done this time around? Think about how the first week you were looking forward to the course… But somehow starting the second week you just gave up. You might even find yourself in a cycle of taking courses over and over again only to leave them midway again, uncompleted. I know what this is like – trust me – I have done this way more times than you can imagine. &lt;/p&gt;
+
+&lt;p&gt;This is meant to be a multi-purpose blog and one of my goals is to help people that are having difficulty going through some of these online MOOC’s (Massive Open Online Courses offered on websites like &lt;a href=&quot;www.udacity.com&quot;&gt;Udacity&lt;/a&gt; or &lt;a href=&quot;www.coursera.com&quot;&gt;Coursera&lt;/a&gt;) or just some courses on their own. I will share my knowledge of these courses as I go through the courses myself. It is likely I will also be posting programming tutorial videos on my youtube account called ProgrammingTutorials (very original, I know). Here is a sample of my teaching pedagogy. &lt;strong&gt;This is an interactive lesson so if you were to go through it, I would actually grade it and give you feedback on this lesson&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;iframe width=&quot;590&quot; height=&quot;475&quot; src=&quot;https://edpuzzle.com/embed/assignments/56e42f5dd760c53f417588bd/watch&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I promise the future videos are gonna get much more entertaining and energetic! I try to teach in small bite-sized nuggets by teaching each concept exclusively and then and only then helping you put together the entire thing. This way you have all the tools you need to do the job and you have a working knowledge of each tool separately. One advantage you will have learning these programming concepts from me is that I will be usually posting them up here as I learn them. You will be learning from a perspective very relevant to yours. Relavance is the single most important factor involved in learning and retaining information for a longer period of time. Think about trying to memorize a license plate versus that hilarious joke your friend just told you the other day. Which one is easier to remember? Which one is more relevant to you?&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-overcome-this-hurdle-and-complete-the-course-successfully&quot;&gt;How to overcome this hurdle and complete the course successfully&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Disect the project and break it down into as many small logically separate parts as you can&lt;/li&gt;
+  &lt;li&gt;Learn each concept involved exclusively and try to get comfortable with it by doing many practice exercises &lt;/li&gt;
+  &lt;li&gt;Finally, once you have all the concepts down pat exclusively, take a shot at the big project&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Feel free to reach out to me and ask me for any help and I will happily correspond with you via e-mail or in the comments section below. If you liked this post, you can 
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/How-to-Finish-An-Online-Programming-Course&amp;amp;text=How to Finish An Online Programming Course&amp;amp;via=RafehQ&quot; target=&quot;_blank&quot;&gt;
+  share it with your followers&lt;/a&gt; 
+or 
+&lt;a href=&quot;https://twitter.com/RafehQ&quot;&gt;
+  follow me on Twitter&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Mar 2016 00:00:00 -0600</pubDate>
+        <link>/ChessTastic/How-to-Finish-An-Online-Programming-Course</link>
+        <guid isPermaLink="true">/ChessTastic/How-to-Finish-An-Online-Programming-Course</guid>
+        
+        <category>Tutorial</category>
+        
+        <category>Programming</category>
+        
+        <category>Guide</category>
+        
+        <category>Walkthrough</category>
+        
+        <category>Coursera</category>
+        
+        
+        <category>tutorial</category>
+        
+        <category>coursera</category>
+        
+      </item>
+    
+      <item>
+        <title>Cats</title>
+        <description>&lt;h2&gt;Enjoy Cats :) &lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dreamatico.com/data_images/kitten/kitten-1.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://www.eastcottvets.co.uk/uploads/Animals/gingerkitten.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://www.critterbabies.com/wp-content/gallery/kittens/happy-kitten-kittens-5890512-1600-1200.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://theheightsanimalhospital.com/clients/15389/images/playful-kitten-6683.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Thanks for playing with us! &lt;/h2&gt;
+</description>
+        <pubDate>Mon, 12 Oct 2015 00:00:00 -0500</pubDate>
+        <link>/ChessTastic/cats</link>
+        <guid isPermaLink="true">/ChessTastic/cats</guid>
+        
+        <category>fun</category>
+        
+        <category>cats</category>
+        
+        
+        <category>cats</category>
+        
+      </item>
+    
+      <item>
+        <title>Chess</title>
+        <description>&lt;div class=&quot;board&quot; style=&quot;width: 400px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;wrong&quot;&gt;Wrong move! Try again... &lt;/div&gt;
+
+&lt;div class=&quot;correct&quot;&gt; Correct!&lt;/div&gt;
+
+&lt;p&gt;&lt;button class=&quot;btn btn-default act-reset-board&quot;&gt;Reset Position&lt;/button&gt;&lt;/p&gt;
+
+&lt;script&gt; 
+	(function() {
+		var START_POS = &#39;rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR&#39;;
+		var TARGET_POS = &#39;rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR&#39;;
+
+		var checkBoard = function(oldPos, newPos) {
+			console.log(&quot;Position changed:&quot;);
+			console.log(&quot;Old position: &quot; + ChessBoard.objToFen(oldPos));
+			console.log(&quot;New position: &quot; + ChessBoard.objToFen(newPos));
+
+			if (ChessBoard.objToFen(newPos) == TARGET_POS) {
+				// alert(&quot;Correct!&quot;);
+				$(&quot;.correct&quot;).css(&quot;display&quot;, &quot;block&quot;);
+			} else if (ChessBoard.objToFen(newPos) == START_POS) {
+				// Fine, we just moved back to the beginning position.
+			} else {
+				setTimeout(function() {
+					board.position(START_POS);	
+					$(&quot;.wrong&quot;).css(&quot;display&quot;, &quot;block&quot;);
+				}, 10);
+			}
+	    }
+
+		var cfg = {
+			draggable: true,
+		 	position: START_POS,
+		 	pieceTheme: &quot;/ChessTastic/lib/chessboard/img/chesspieces/wikipedia/{piece}.png&quot;,
+		 	onChange: checkBoard
+		};
+
+		var board_div = $(&#39;.board:last&#39;);
+		var board = ChessBoard(board_div[0], cfg);
+
+		var reset_button = $(&#39;.act-reset-board:last&#39;);
+		reset_button.on(&#39;click&#39;, function() {
+			board.position(START_POS);
+		});
+	})();
+&lt;/script&gt;
+
+&lt;div class=&quot;dropdown&quot;&gt;
+  &lt;button class=&quot;btn btn-primary dropdown-toggle&quot; type=&quot;button&quot; data-toggle=&quot;dropdown&quot;&gt;Dropdown Example
+  &lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;&lt;/button&gt;
+  &lt;ul class=&quot;dropdown-menu&quot;&gt;
+    &lt;li&gt;&lt;a id=&quot;html&quot; href=&quot;#&quot;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;#&quot;&gt;CSS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;#&quot;&gt;JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+	$(&quot;#html&quot;).click(function(e){
+		if (!data) return e.preventDefault()
+		alert(&quot;GOOD JOB!&quot;);
+	});
+&lt;/script&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;h3&gt;Popover CSS Example&lt;/h3&gt;
+  &lt;a href=&quot;#&quot; data-toggle=&quot;popover&quot; title=&quot;Popover Header&quot; class=&quot;btn btn-large btn-danger&quot; data-content=&quot;King&#39;s Gambit&quot;&gt;HINT&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+$(document).ready().click(function(e){
+    $(&#39;[data-toggle=&quot;popover&quot;]&#39;).popover();
+    e.preventDefault(); 
+
+
+});
+&lt;/script&gt;
+
+&lt;div class=&quot;panel panel-default&quot;&gt;
+  &lt;div class=&quot;panel-body&quot;&gt; 
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python3&quot; data-lang=&quot;python3&quot;&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+A Basic Panel&lt;/div&gt;
+  &lt;div class=&quot;panel-footer&quot;&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python3&quot; data-lang=&quot;python3&quot;&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!--
+&lt;div class=&quot;board&quot; style=&quot;width: 400px&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt; 
+	(function() {
+		var start = &#39;start&#39;;
+		if (window.location.hash.length &gt; 1) {
+			start = window.location.hash.substring(1);
+		}
+
+		function outputFen(oldPos, newPos) {
+			console.log(&quot;http://&quot; + window.location.host + window.location.pathname + &quot;#&quot; + ChessBoard.objToFen(newPos));
+		}
+
+		var cfg = {
+			showNotation: true,
+			draggable: true,
+		 	position: start,
+		 	pieceTheme: &quot;/ChessTastic/lib/chessboard/img/chesspieces/wikipedia/{piece}.png&quot;,
+		 	onChange: outputFen
+		};
+
+		var board_div = $(&#39;.board:last&#39;);
+		var board = ChessBoard(board_div[0], cfg);
+	})();
+&lt;/script&gt;
+
+
+--&gt;
+
+&lt;!-- Chessboard with Moves --&gt;
+&lt;div class=&quot;board&quot; style=&quot;width: 400px&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; id=&quot;startPositionBtn&quot; value=&quot;Start Position&quot; /&gt;
+&lt;input type=&quot;button&quot; id=&quot;move1Btn&quot; value=&quot;e2-e4&quot; /&gt;
+&lt;input type=&quot;button&quot; id=&quot;move2Btn&quot; value=&quot;d2-d4, g8-f6&quot; /&gt;&lt;/p&gt;
+
+&lt;script&gt;
+var board = ChessBoard(&#39;board&#39;, &#39;start&#39;);
+var cfg = {
+			showNotation: true,
+		 	position: start,
+		 	pieceTheme: &quot;/ChessTastic/lib/chessboard/img/chesspieces/wikipedia/{piece}.png&quot;,
+		 	onChange: outputFen
+
+$(&#39;#startPositionBtn&#39;).on(&#39;click&#39;, board.start);
+
+$(&#39;#move1Btn&#39;).on(&#39;click&#39;, function() {
+  board.move(&#39;e2-e4&#39;);
+});
+
+$(&#39;#move2Btn&#39;).on(&#39;click&#39;, function() {
+  board.move(&#39;d2-d4&#39;, &#39;g8-f6&#39;);
+});
+&lt;/script&gt;
+
+&lt;!--
+&lt;div class=&quot;board&quot; style=&quot;width: 400px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;wrong&quot;&gt;Wrong move! Try again... &lt;/div&gt;
+
+&lt;div class=&quot;correct&quot; &gt; Correct!&lt;/div&gt;
+
+
+&lt;button class=&quot;btn btn-default act-reset-board&quot;&gt;Reset Position&lt;/button&gt;
+
+&lt;script&gt; 
+	(function() {
+		var START_POS = &#39;rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR&#39;;
+		var TARGET_POS = &#39;rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR&#39;;
+
+		var checkBoard = function(oldPos, newPos) {
+			console.log(&quot;Position changed:&quot;);
+			console.log(&quot;Old position: &quot; + ChessBoard.objToFen(oldPos));
+			console.log(&quot;New position: &quot; + ChessBoard.objToFen(newPos));
+
+			if (ChessBoard.objToFen(newPos) == TARGET_POS) {
+				// alert(&quot;Correct!&quot;);
+				$(&quot;.correct&quot;).css(&quot;display&quot;, &quot;block&quot;);
+			} else if (ChessBoard.objToFen(newPos) == START_POS) {
+				// Fine, we just moved back to the beginning position.
+			} else {
+				setTimeout(function() {
+					board.position(START_POS);	
+					$(&quot;.wrong&quot;).css(&quot;display&quot;, &quot;block&quot;);
+				}, 10);
+			}
+	    }
+
+		var cfg = {
+			draggable: true,
+		 	position: START_POS,
+		 	pieceTheme: &quot;/ChessTastic/lib/chessboard/img/chesspieces/wikipedia/{piece}.png&quot;,
+		 	onChange: checkBoard
+		};
+
+		var board_div = $(&#39;.board:last&#39;);
+		var board = ChessBoard(board_div[0], cfg);
+
+		var reset_button = $(&#39;.act-reset-board:last&#39;);
+		reset_button.on(&#39;click&#39;, function() {
+			board.position(START_POS);
+		});
+	})();
+&lt;/script&gt;
+
+
+&lt;div class=&quot;board&quot; style=&quot;width: 400px&quot;&gt;&lt;/div&gt;
+&lt;button class=&quot;btn btn-default act-reset-board&quot;&gt;Reset Position&lt;/button&gt;
+
+&lt;script&gt; 
+	(function() {
+		var START_POS = &#39;rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR&#39;;
+		var TARGET_POS = &#39;rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR&#39;;
+
+		var checkBoard = function(oldPos, newPos) {
+			console.log(&quot;Position changed:&quot;);
+			console.log(&quot;Old position: &quot; + ChessBoard.objToFen(oldPos));
+			console.log(&quot;New position: &quot; + ChessBoard.objToFen(newPos));
+
+			if (ChessBoard.objToFen(newPos) == TARGET_POS) {
+				alert(&quot;Correct!&quot;);
+			} else if (ChessBoard.objToFen(newPos) == START_POS) {
+				// Fine, we just moved back to the beginning position.
+			} else {
+				setTimeout(function() {
+					board.position(START_POS);	
+				}, 10);
+			}
+	    }
+
+		var cfg = {
+			draggable: true,
+		 	position: START_POS,
+		 	pieceTheme: &quot;/ChessTastic/lib/chessboard/img/chesspieces/wikipedia/{piece}.png&quot;,
+		 	onChange: checkBoard
+		};
+
+		var board_div = $(&#39;.board:last&#39;);
+		var board = ChessBoard(board_div[0], cfg);
+
+		var reset_button = $(&#39;.act-reset-board:last&#39;);
+		reset_button.on(&#39;click&#39;, function() {
+			board.position(START_POS);
+		});
+	})();
+&lt;/script&gt;
+--&gt;
+</description>
+        <pubDate>Fri, 09 Oct 2015 00:00:00 -0500</pubDate>
+        <link>/ChessTastic/chess</link>
+        <guid isPermaLink="true">/ChessTastic/chess</guid>
+        
+        <category>Chess</category>
+        
+        
+        <category>chess</category>
+        
+      </item>
+    
+  </channel>
+</rss>
