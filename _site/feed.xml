@@ -5,8 +5,8 @@
     <description>Chess Made Easy</description>
     <link>/ChessTastic/</link>
     <atom:link href="/ChessTastic/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 05 Apr 2016 03:13:48 -0500</pubDate>
-    <lastBuildDate>Tue, 05 Apr 2016 03:13:48 -0500</lastBuildDate>
+    <pubDate>Tue, 05 Apr 2016 04:02:02 -0500</pubDate>
+    <lastBuildDate>Tue, 05 Apr 2016 04:02:02 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -14,8 +14,51 @@
         <description>&lt;iframe src=&quot;https://docs.google.com/forms/d/13jflDqUR--s_HF0ec5nrA6KMu6932hO3ExCI4utHGUo/viewform?embedded=true&quot; width=&quot;760&quot; height=&quot;1000&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Loading...&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 05 Apr 2016 00:00:00 -0500</pubDate>
-        <link>/ChessTastic/lesson</link>
-        <guid isPermaLink="true">/ChessTastic/lesson</guid>
+        <link>/ChessTastic/submit</link>
+        <guid isPermaLink="true">/ChessTastic/submit</guid>
+        
+        <category>Chess</category>
+        
+        
+        <category>chess</category>
+        
+      </item>
+    
+      <item>
+        <title>New Chess</title>
+        <description>&lt;div class=&quot;board&quot; style=&quot;width: 400px&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt; 
+	(function() {
+
+    var qaziGame = &#39;2k5/pbp2N2/1p2p3/8/3P1b2/2P4q/PP2Q1PP/5R1K&#39;;
+    var ruyLopez = &#39;r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R&#39;;
+		if (window.location.hash.length &gt; 1) {
+			start = window.location.hash.substring(1);
+		}
+
+		function outputFen(oldPos, newPos) {
+			console.log(&quot;http://&quot; + window.location.host + window.location.pathname + &quot;#&quot; + ChessBoard.objToFen(newPos));
+		}
+
+		var cfg = {
+            orientation: &#39;black&#39;,
+			showNotation: true,
+			draggable: true,
+		 	position: qaziGame,
+		 	pieceTheme: &quot;/ChessTastic/lib/chessboard/img/chesspieces/wikipedia/{piece}.png&quot;,
+		 	onChange: outputFen
+		};
+
+		var board_div = $(&#39;.board:last&#39;);
+		var board = ChessBoard(board_div[0], cfg);
+	})();
+&lt;/script&gt;
+
+</description>
+        <pubDate>Tue, 05 Apr 2016 00:00:00 -0500</pubDate>
+        <link>/ChessTastic/new_chess</link>
+        <guid isPermaLink="true">/ChessTastic/new_chess</guid>
         
         <category>Chess</category>
         

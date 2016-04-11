@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Chess Made Easy">
 
-    <title>Chess Tastic</title>
+    <title>New Chess - Chess Tastic</title>
 
-    <link rel="canonical" href="/ChessTastic/">
+    <link rel="canonical" href="/ChessTastic/new_chess">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/ChessTastic/css/bootstrap.min.css">
@@ -93,75 +93,114 @@
     <!-- /.container -->
 </nav>
 
-    <!-- Page Header -->
-<header class="intro-header" style="background-image: url('/ChessTastic/img/home-bg.jpg')">
+    <!-- Post Header -->
+<header class="intro-header" style="background-image: url('/ChessTastic/img/iphone-passcode2.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="site-heading">
-                    <h1>Chess Tastic</h1>
-                    <hr class="small">
-                    <span class="subheading">A Software Developer who likes double tall white mocha from Starbucks almost as much as he likes code.</span>
+                <div class="post-heading">
+                    <h1>New Chess</h1>
+                    
+                    <h2 class="subheading">Let's play some chess</h2>
+                    
+                    <span class="meta">Posted by Rafeh Qazi on April 5, 2016</span>
                 </div>
             </div>
         </div>
     </div>
 </header>
 
-<!-- Main Content -->
-<div class="container">
-	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-			
-<div class="post-preview">
-    <a href="/ChessTastic/submit">
-        <h2 class="post-title">            Submit Lesson
-        </h2>
-        
-        <h3 class="post-subtitle">
-            Submit Lesson
-        </h3>
-        
-    </a>
-    <p class="post-meta">Posted by Rafeh Qazi on April 5, 2016</p>
-</div>
-<hr>
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
 
-<div class="post-preview">
-    <a href="/ChessTastic/new_chess">
-        <h2 class="post-title">            New Chess
-        </h2>
-        
-        <h3 class="post-subtitle">
-            Let's play some chess
-        </h3>
-        
-    </a>
-    <p class="post-meta">Posted by Rafeh Qazi on April 5, 2016</p>
-</div>
-<hr>
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-<div class="post-preview">
-    <a href="/ChessTastic/chess">
-        <h2 class="post-title">            Chess
-        </h2>
-        
-        <h3 class="post-subtitle">
-            Let's play some chess
-        </h3>
-        
-    </a>
-    <p class="post-meta">Posted by Rafeh Qazi on October 9, 2015</p>
-</div>
-<hr>
+				<div class="board" style="width: 400px"></div>
+
+<script> 
+	(function() {
+
+    var qaziGame = '2k5/pbp2N2/1p2p3/8/3P1b2/2P4q/PP2Q1PP/5R1K';
+    var ruyLopez = 'r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R';
+		if (window.location.hash.length > 1) {
+			start = window.location.hash.substring(1);
+		}
+
+		function outputFen(oldPos, newPos) {
+			console.log("http://" + window.location.host + window.location.pathname + "#" + ChessBoard.objToFen(newPos));
+		}
+
+		var cfg = {
+            orientation: 'black',
+			showNotation: true,
+			draggable: true,
+		 	position: qaziGame,
+		 	pieceTheme: "/ChessTastic/lib/chessboard/img/chesspieces/wikipedia/{piece}.png",
+		 	onChange: outputFen
+		};
+
+		var board_div = $('.board:last');
+		var board = ChessBoard(board_div[0], cfg);
+	})();
+</script>
 
 
-<!-- Pager -->
+                <a href="https://twitter.com/share" class="twitter-share-button" data-via="RafehQ" data-size="medium">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
 
+<!-- Place this tag where you want the share button to render. -->
+<div class="g-plus" data-action="share"></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=81498129418";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
-		</div>
-	</div>
-</div>
+<div class="fb-share-button" data-href="https://qazipython.github.io/data-science/new_chess" data-layout="button_count" style="position: relative; top: -1px; left: 1px;"></div>
+                
+<!-- Add Disqus comments. -->
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+  var disqus_shortname = 'QaziPython'; // required: replace example with your forum shortname
+  var disqus_identifier = "/new_chess";
+
+  /* * * DON'T EDIT BELOW THIS LINE * * */
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+                <hr>
+                
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/ChessTastic/chess" data-toggle="tooltip" data-placement="top" title="Chess">&larr; Previous Post</a>
+                    </li>
+                    
+                    
+                    <li class="next">
+                        <a href="/ChessTastic/submit" data-toggle="tooltip" data-placement="top" title="Submit Lesson">Next Post &rarr;</a>
+                    </li>
+                    
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</article>
 
 <hr>
 
